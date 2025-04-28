@@ -88,7 +88,7 @@ def get_current_chat_history(chat_id: str):
     current_data = ""
     for user in chat["users"]:
         users[user["id"]] = {"name": user["name"], "type": user["type"]}
-        if user["type"] == "customer": #save customer data
+        if user["type"] == "customer" and "session_fields" in user: #save customer data
             current_data += "The user is currently looking at this car: " + str(user["session_fields"]) + "\n"
     messages = get_thread_messages(chat["thread"]["events"], users)
 
@@ -177,7 +177,7 @@ def recieve_new_chat(chat_data: dict):
     current_data = ""
     for user in chat_data["users"]:
         users[user["id"]] = {"name": user["name"], "type": user["type"]}
-        if user["type"] == "customer": #save customer data
+        if user["type"] == "customer" and "session_fields" in user: #save customer data
             current_data += "The user is currently looking at this car: " + str(user["session_fields"]) + "\n"
     messages = "chat_id: " + chat_data["id"] + "\n" +get_thread_messages(chat_data["thread"]["events"], users)
     print("History of new chat\n", current_data + messages)
