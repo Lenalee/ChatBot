@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="cs">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Testovací stránka s ChatBotem</title>
+</head>
+
+<body>
+    <h1>Škoda Octavia III 1.6 TDI</h1>
+    <p>Cena: 215 000 Kč</p>
+    <p>Nájezd: 148 000 km</p>
+
+    <script>
+        // Simulated car data for the chatbot
+        const car = {
+            id: "8473",
+            title: "Škoda Octavia III 1.6 TDI",
+            price: "215 000 Kč",
+            mileage: "148 000 km"
+        };
+
+        // Set LiveChat session variables after widget loads
+        window.LC_API = window.LC_API || {};
+        window.LC_API.on_after_load = function () {
+            LC_API.set_custom_variables([
+                { name: "car_id", value: car.id },
+                { name: "car_title", value: car.title },
+                { name: "price", value: car.price },
+                { name: "mileage", value: car.mileage }
+            ]);
+        };
+    </script>
+
+    <!-- LiveChat tracking code (replace with your own license ID) -->
+    <script>
+        window.__lc = window.__lc || {};
+        window.__lc.license = 19140581;  // 🔁 Replace with your actual license ID (number)
+        (function (n, t, c) {
+            function i(n) {
+                return e._h ? e._h.apply(null, n) : e._q.push(n)
+            }
+            var e = {
+                _q: [], _h: null, _v: "2.0",
+                on: function () { i(["on", c.call(arguments)]) },
+                once: function () { i(["once", c.call(arguments)]) },
+                off: function () { i(["off", c.call(arguments)]) },
+                get: function () {
+                    if (!e._h) throw new Error("[LiveChatWidget] You can't use getters before load.");
+                    return i(["get", c.call(arguments)])
+                },
+                call: function () { i(["call", c.call(arguments)]) },
+                init: function () {
+                    var n = t.createElement("script");
+                    n.async = !0, n.type = "text/javascript",
+                        n.src = "https://cdn.livechatinc.com/tracking.js",
+                        t.head.appendChild(n)
+                }
+            };
+            !n.__lc.asyncInit && e.init(), n.LiveChatWidget = n.LiveChatWidget || e
+        })(window, document, [].slice)
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,297 @@
+Carvago Contacts
+Currencies
+country ISO code CZ - Carvago s.r.o.  SK  PL  DE  AT  IT      RO  XK
+   main currency                 CZK EUR PLN EUR EUR EUR EUR+RON EUR
+CUSTOMER SUPPORT INFO
+Attribute                                    additional info                                                                                             CZ - Carvago s.r.o.                                                 SK                                                  PL                                                DE                                                AT                                                 IT                                          RO                                                                       XK
+                general info email            for general use, not purchase enquiries                                                                                                info@carvago.com                                   info@carvago.com                                    info@carvago.com                                  info@carvago.com                                  info@carvago.com                                   info@carvago.com                            info@carvago.com                                                      contact@carvago.com
+                             email                       to purchase car from carvago                                                                                              prodej@carvago.com                                 predaj@carvago.com                                     bok@carvago.com                            de.verkauf@carvago.com                            at.verkauf@carvago.com                             it.vendite@carvago.com                      ro.vanzari@carvago.com                                                      contact@carvago.com
+                     auction email                          to sell car as a customer                                                                                               vykup@carvago.com                                 aukcia@carvago.com                                  aukcje@carvago.com                            de.auktion@carvago.com                            at.auktion@carvago.com                                   aste@carvago.com                       licitatie@carvago.com                                                                         
+                       phone hours                                                                                                                                         Po-Ne: from: '8', to: '20'                         Po-Ne: from: '8', to: '20'                          Po-Ni: from: '8', to: '20'                        Mo-So: from: '8', to: '20'                        Mo-So: from: '8', to: '20'                         Lu-Do: from: '8', to: '20'               Luni-Dum: from: '8', to: '20' Mo-Fr: from: '8', to: '21',Sat: from: '9', to '21'Sun: from '11' to '21'
+                      phone number                                                                                                                                                   +420 246 034 700                                   +421 233 221 221                                     +48 221 531 515                                   +49 21312664106                                  +43 (720) 971797                                   +39 02 8736 1995                                +40312295734                                                         +383 38 61 61 61
+              auction phone number                                                                                                                                                   +420 773 307 458                                   +421 220 929 613                                     +48 717 079 090                                   +49 21312664107                                 +43 (720) 971 077                                   +39 02 8126 0809                                +40724234416                                                         +383 38 61 61 61
+    b2b transaction contact number                                                                                                                                                   +420 730 701 700                                   +421 233 221 221                                     +48 221 531 515                                   +49 21312664106                                  +43 (720) 971797                                   +39 02 8736 1995                                +40312295734                                                         +383 38 61 61 61
+            support office address                                              title                                                                                       European Automotive Group                          European Automotive Group                           European Automotive Group                         European Automotive Group                         European Automotive Group                          European Automotive Group                   European Automotive Group                                                       Carvago by Gjirafa
+                            street                                    Platnéřská 88/9                                                                                                 Platnéřská 88/9                                    Platnéřská 88/9                                     Platnéřská 88/9                                   Platnéřská 88/9                                   Platnéřská 88/9                                    Platnéřská 88/9 Magjistralja Prishtine - Ferizaj, km i 6-te                                                                     None
+                              city                                          t`prague`                                                                                                       t`prague`                                          t`prague`                                           t`prague`                                         t`prague`                                         t`prague`                                          t`prague`                                   Graçanicë                                                                     None
+                        postal zip                                             110 00                                                                                                          110 00                                             110 00                                              110 00                                            110 00                                            110 00                                             110 00                                       10500                                                                     None
+                           country                                  t`czech_republic`                                                                                               t`czech_republic`                                  t`czech_republic`                                   t`czech_republic`                                 t`czech_republic`                                 t`czech_republic`                                  t`czech_republic`                   t`the_Republic_of_Kosovo`                                                                     None
+support office address alternative                                              title                                                                                           EAG SE, CRN: 29126169                              EAG SE, CRN: 29126169                               EAG SE, CRN: 29126169                             EAG SE, CRN: 29126169                             EAG SE, CRN: 29126169                              EAG SE, CRN: 29126169                       EAG SE, CRN: 29126169                                                       Carvago by Gjirafa
+                            street            Platnéřská 88/9, based Plynární 1617/10                                                                         Platnéřská 88/9, based Plynární 1617/10            Platnéřská 88/9, based Plynární 1617/10             Platnerska 88/9, based Plynarni 1617/10           Platnerska 88/9, based Plynarni 1617/10           Platnerska 88/9, based Plynarni 1617/10            Platnerska 88/9, based Plynarni 1617/10 Magjistralja Prishtine - Ferizaj, km i 6-te                                                                     None
+                              city                                          t`prague`                                                                                                       t`prague`                                          t`prague`                                           t`prague`                                         t`prague`                                         t`prague`                                          t`prague`                                   Graçanicë                                                                     None
+              company base address                                              title                                                                                                  Astrid offices                                       Polus Towers                           Carvago Polska Sp. z o.o.                          Carvago Deutschland GmbH                           Carvago Österreich GmbH                             Carvago Italia S.r.l.,                     Carvago Marketplace SRL                                                                        /
+                            street                                    Dělnická 1628/9                                                                                                 Vajnorská 100/B                                 Ul. Domaniewska 44                                     Kieselstraße 13                          Karl Waldbrunner Platz 1                                   Via Tiziano, 32                         Bdul. Dimitrie Pompeiu 5-7                                           /                                                                     None
+                              city                                          t`prague`                                                                                                   t`bratislava`                                          t`warsaw`                                            t`Neuss`                                         t`vienna`                                         t`Milano`                                       t`Bucuresti`                                 t`Pristina`                                                                     None
+                        postal zip                                             170 00                                                                                                          831 04                                             02-672                                               41472                                              1210                                             20145                                              20335                                       10500                                                                     None
+                           country                                  t`czech_republic`                                                                                                     t`slovakia`                                          t`poland`                                          t`germany`                                        t`austria`                                          t`italy`                                         t`Romania`                                                                                                                 None
+                       coordinates {lat: 50.10352494072511, long: 14.445029414465138} Sládkovičovo: { lat: 48.16784552465278, long: 17.138899241447923 } ,Mestečko: {lat: 49.170892, long: 18.263708} {lat: 52.18381669980173, long: 20.999576727161486} { lat: 51.16179145915775, long: 6.661431455695063 } { lat:48.25715209393823, long:16.40170467028558 } { lat:45.47279875075303, long:9.159462413430877 } { lat:44.48130483322822, long:26.113450542091254 }       42.58454934994136, 21.130977295135953                                                                     None
+REVIEWS AND MEDIA                   CZ - Carvago s.r.o.                                    SK                                    PL                                    DE                                    AT                                    IT                                    RO                                   XK
+        instagram https://www.instagram.com/carvago_cz/ https://www.instagram.com/carvago_sk/ https://www.instagram.com/carvago_pl/ https://www.instagram.com/carvago_de/ https://www.instagram.com/carvago_at/ https://www.instagram.com/carvago_it/ https://www.instagram.com/carvago_ro/ https://www.instagram.com/carvago_xk
+========= NEW DOCUMENT ==========
+Financing Information
+Financing Information
+Financing Information         CZ - Carvago s.r.o.                      SK                       PL                       DE                            AT                          IT                        RO                          XK                None
+                     bank logo Moneta+Cofidis+Essox+Inbank                csob+VUB      Santander + Cofidis       Santander + Bank11 Santander+LSG leasing-service Agos, Fidiitalia, Santander   TBI, Raiffesein leasing                   ProCredit                None
+        bank logo - transation                      Moneta                csob+VUB    santander-transaction                   bank11               leasing-service                        Agos                       TBI                   ProCredit                None
+           bank logo - landing                      Moneta                csob+VUB        santander-landing                   bank11               leasing-service                        Agos                       TBI                   ProCredit                None
+                     bank name                      Moneta  ČSOB leasing a.s.; VUB           Santander Bank                   bank11      LSG LEASING-SERVICE GmbH         Agos Ducato S.p.A..          TBI Money IFN SA ProCredit Bank Kosovo J.S.C                None
+               disclaimer info                         YES                     YES                      YES                      YES                           YES                         YES                       YES                         YES                None
+                financing time                  do 30 min.             do 1 hodiny              do 1 hodiny              do 1 hodiny                   do 1 hodiny                  do 4 hodin                30 minutes                    24 hours                None
+        payback period default                                           48 months                72 months                72 months                     72 months                   72 months                 72 months                   60 months           84 months
+           downpayment default                                                 30%                      45%                      40%                           40%                         40%                       40%                         40%                  0%
+BALLOON payback period default                                           48 months                      N/A                      N/A                           N/A                         N/A                        48                         N/A                 N/A
+   BALLOON downpayment default                                                 30%                      N/A                      N/A                           N/A                         N/A                       30%                         N/A                 N/A
+           contact - phone no.                                     420 246 034 700          421 233 221 221           48 221 531 515              49 2131 2664 106               43 720 971797           39 02 8736 1995              40 312 295 734    +383 38 61 61 61
+               contact - email                             financovani@carvago.com financovanie@carvago.com finansowanie@carvago.com   de-finanzierung@carvago.com at-finanzierung@carvago.com finanziamenti@carvago.com       finantare@carvago.com contact@carvago.com
+========= NEW DOCUMENT ==========
+Purchasing a car with Carvago
+How does Carvago work?
+Express Interest in a Vehicle:
+You show interest in a vehicle from
+http://Carvago.com
+by clicking the "buy" button.
+Fill in the necessary details and choose additional service parameters, which indicates your interest in the vehicle and the CarAudit inspection.
+CarAudit Inspection:
+Upon payment, Carvago immediately starts verifying the vehicle through the CarAudit service (
+https://carvago.com/cs/CarAudit
+).
+The CarAudit is both a physical and document inspection conducted by our or a partner technician.
+It results in a detailed report covering 270 parameters, including VIN verification, detailed photo documentation of any potential damage, along with recommendations from our expert technician.
+Based on this report, you decide whether the car is attractive to you.
+Payment Options:
+After agreeing on your interest in the car, choose whether to pay cash or finance it through a loan.
+Finalizing the Purchase:
+Pay the agreed amount for the vehicle and select a delivery location.
+Options include pickup at our location, delivery to your work, or home.
+Additional Services:
+You can arrange additional services during transportation, such as favorable insurance, additional polishing, interior cleaning, air conditioning servicing, or an extended warranty up to 24 months. If you have other requests, feel free to consult us. We strive to meet your wishes.
+Delivery Process:
+Once the car arrives at our logistics center, we ensure importation inspection, register the car to you, perform agreed tasks (inspection, cleaning, fluid replenishment), and deliver it to the chosen address.
+Using Your Car:
+Once you have the keys, you can fully use the car immediately. Everything is settled, and there's no further need for action.
+Return Policy:
+If, for any reason, you're dissatisfied with the vehicle, you can return it within 14 days without having to provide a reason.
+Further Information:
+For a better understanding of our service, we recommend watching a short informational video on the page:
+https://carvago.com/cs/jak-funguje-carvago
+, found at the top of the page.
+Benefits of using Carvago
+The benefits of using carvago include, but aren’t limited to:
+Kompletní online proces:
+Pohodlí nakupování z domova bez nutnosti návštěvy bazaru.
+Ušetření času a energie, které by byly vynaloženy na návštěvy různých bazarů.
+Transparentnost:
+Detailní a nezávislé hodnocení vozidel (CarAudit).
+Přístup k veškeré dokumentaci a historii vozidla.
+Fotografie a videa ve vysokém rozlišení.
+Záruky a ochrana:
+Nabídka prodloužené záruky.
+Možnost vrácení vozidla do 14 dnů bez udání důvodu.
+Důkladné prověření technického stavu vozidla před nákupem (CarAudit).
+Široká nabídka:
+Přístup k vozidlům z celé Evropy, což rozšiřuje možnosti výběru.
+Vyhledávání podle přesných kritérií a požadavků zákazníka.
+Finanční výhody:
+Možnost lepších cen díky širší nabídce a online konkurenci.
+Flexibilní financování a leasingové možnosti.
+Doručení až domů:
+Pohodlné doručení vozidla až k vám domů.
+Žádné starosti s dopravou vozidla z bazaru.
+CarAudit:
+Nezávislá kontrola technického stavu vozidla.
+Podrobná zpráva o stavu vozidla, která vám poskytne jistotu při nákupu.
+V prohlídce v bazaru musíte mít technika a využít placených nástrojů, které jsou v našem CarAuditu.
+Omezení dojezdové vzdálenosti:
+S Carvago nejste omezeni dojezdovou vzdáleností. Můžete si vybrat vozidlo z celé Evropy a neomezovat se na místní nabídku.
+Motivace prodejce:
+Prodejce v bazaru může mít motivaci prodat auto, které není zcela v pořádku, jen aby uskutečnil prodej. U nás máte jistotu nezávislého hodnocení.
+Záruky a vrácení:
+V bazaru nikdy nedostanete takové záruky jako u nás. Pokud auto nebude vyhovovat, můžete ho do 14 dnů vrátit bez udání důvodu.
+Jednoduchý proces reklamace:
+V bazarech je proces reklamace složitý. U nás máte půl roku zdarma záruku, a pokud se s vozem něco stane, my vám ho opravíme.
+========= NEW DOCUMENT ==========
+Carvago Product Information
+Warranty information
+WARRANTY INFO    CZ - Carvago s.r.o.                  SK                        PL                        DE                        AT                     IT                   RO            XK
+               warranty type          Carvago Guard       Carvago Guard             Carvago Guard             Carvago Guard                   Element                Element          CarGarantie Carvago Guard
+        free warranty length               6 months            6 months                 12 months                 12 months                 12 months              12 months            12 months      6 months
+         warranty max length    36 months (3 years) 36 months (3 years)       36 months (3 years)       36 months (3 years)       36 months (3 years)    48 months (4 years)  48 months (4 years)     18 months
+all packages length (months)             6,12,24,36          6,12,24,36                  12,24,36                  12,24,36                  12,24,36            12,24,36,48          12,24,36,48              
+        product availability    10 let / 150 000 km  6 let / 200 000 km        6 let / 200 000 km          20 let / 300 000          20 let / 300 000                 15 let     10 let / 200 000              
+         contact - phone no.        420 773 307 456     421 233 221 221           48 32 797 10 41             0800 000 5623             0800 44 77 20        +39 02 87361995        40 31 2254285              
+             contact - email  reklamace@carvago.com  predaj@carvago.com szkody@defendinsurance.pl schaden@intec-garantie.de schaden@intec-garantie.de it.vendite@carvago.com daune@cargarantie.ro
+CarAudit/ Car Inspection OFFICIAL cost:
+CZ        SK   PL   AT   DE   IT   RO
+CarAudit 2 990Kč 119€ 499,00 zł 119€ 119€ 119€ 119€ None
+========= NEW DOCUMENT ==========
+How carvago works
+HOW CARVAGO WORKS – A COMPREHENSIVE KNOWLEDGE BASE
+Below is a single, unified text merging all the descriptions of how this company operates as a digital, pan-European marketplace for buying used cars. It incorporates every relevant detail gleaned from the various segments—including how vehicles are selected, inspected, financed, registered, and ultimately delivered or returned. This lengthy guide is intended to serve as an extensive encyclopedia of the entire process.
+INTRODUCTION: THE DIGITAL MARKETPLACE
+Unlike a traditional single-lot dealership, the company provides an online platform for purchasing and, in some cases, selling used cars from many European sources. Instead of collecting inventory in one physical location, it synchronizes with selected vehicles distributed throughout the continent—from Germany, Austria, Italy, Belgium, the Netherlands, Sweden, the Czech Republic, and more. The goal is to give customers a much wider selection than an average local dealership could offer—potentially hundreds of thousands or even over a million listings at any given time.
+KEY ADVANTAGES AND DIGITAL PROCESSES
+The entire transaction is orchestrated online or remotely: from researching possible cars to finalizing the purchase contract and setting up financing.
+Core steps—vehicle history checks, detailed inspections (CarAudit™), cross-border paperwork, optional financing, and final registration—are handled either digitally or by the company’s staff, removing the buyer’s need to travel abroad.
+Communication usually takes place by phone or email, with digital contract confirmations. In many cases, the buyer only sees and test-drives the vehicle for the first time upon delivery or pick-up. However, the buyer is given a robust CarAudit™ report ahead of time, detailing the mechanical and cosmetic condition.
+TYPES OF CARS AND WHERE THEY COME FROM
+2.1 LARGE, MULTI-COUNTRY INVENTORY
+The company aggregates used-car listings from a variety of vetted dealerships or partner distributors across Europe. Each day, it reviews massive numbers of ads, but only a fraction (approximately 10%) passes initial screening. This screening eliminates suspicious offers (e.g., hidden accidents, unresponsive sellers, or incomplete documentation), so the final published listings are presumably more reliable. Cars come from many nations—Germany, Austria, Czech Republic, the Netherlands, Italy, Belgium, Sweden, and others—and can be imported (or sold locally if in Germany) according to the buyer’s location.
+2.2 SELLER VERIFICATION AND LISTING CRITERIA
+Before a vehicle is displayed on the company’s site, checks are performed at multiple levels:
+The seller’s reliability: If a seller fails to respond promptly, has negative reviews, or shows inconsistent records, their vehicles are never listed or quickly removed.
+Continual updates: Listings are updated frequently (often every 24 hours). A car might be sold or reserved by another buyer if the platform cannot purchase it promptly.
+2.3 WHAT IF A BUYER SPOTS A CAR ON ANOTHER SITE?
+If a prospective buyer finds a vehicle on a pan-European website (e.g., AutoScout,
+http://Mobile.de
+) and wants the company to handle the cross-border purchase and inspection, they may share the link. If it meets the internal criteria (e.g., mileage and ownership history are acceptable), the buyer can request that listing be imported into the platform and proceed with the same processes described below. However, a car can be purchased through Carvago only once the car is listed on Carvago’s website.
+THE CARAUDIT™ INSPECTION
+3.1 OVERVIEW: WHAT IS CarAudit™?
+CarAudit™ is the company’s branded in-depth vehicle check performed before a purchase is finalized. A professional technician physically visits the car—wherever it is located in Europe—to conduct a thorough evaluation, typically covering up to 270 or more checkpoints. This inspection includes:
+Before the CarAudit inspection, Carvago consults European databases to see if a car was stolen or declared a total loss, or if there is an unresolved finance lien.
+Exterior inspection (paint thickness measurement, spotting past body repairs).
+Interior inspection (electronics, seat condition, climate controls, trunk mechanism).
+Checking for potential flooding or tampered modifications.
+Diagnostic scans for computer error codes or odometer manipulation.
+A test drive (if feasible) to evaluate engine performance, braking, steering, suspension, and gear shifts.
+Verification of VIN (Vehicle Identification Number) to confirm official records match.
+Dozens of photographs from all angles, capturing any scratches, dents, or signs of mechanical issues.
+The CarAudit inspection usually takes between 2-4 business days
+3.2 WHEN IS CarAudit™ REQUESTED?
+Once a user has selected a vehicle on the platform, they typically click a “Buy” or “Finance” button. This triggers:
+A prompt to pay the CarAudit™ fee (sometimes referred to as “inspection fee” or “CarCheck fee”).
+The company’s confirmation that the car is still available and that the seller is cooperating.
+The dispatch of a certified inspector to conduct the on-site evaluation within two to four business days (timing can vary depending on distance, scheduling constraints, or local holidays).
+3.3 OUTCOME OF THE INSPECTION
+After the physical check which usually takes 2-4 business days, the buyer receives:
+A multi-page inspection report covering mechanical, cosmetic, and legal aspects—plus numerous photos.
+A recommendation on purchase. If the car is flagged as “not recommended” (due to undisclosed accidents, major mechanical defects, manipulated odometer, or uncooperative seller), the user can either:
+Select a different car without paying another CarAudit™ fee.
+Request a refund of the inspection fee if no suitable alternative is found.
+If the car is “recommended” (or “conditionally recommended”), the buyer can decide whether to proceed with the purchase. If the user declines despite a recommendation, the CarAudit™ fee is not refunded.
+3.4 WHAT IF THE CAR PASSES WITH MINOR ISSUES?
+Some vehicles pass inspection but have minor flaws (e.g., worn brake pads, cracked windshield, etc.). The user can still decide to buy, possibly requesting that the company fix these issues or source new tires, etc., for an additional charge. If the problem is serious or unacceptable, the user can simply reject the car.
+ORDERING AND PAYMENT: HOW TO FINALIZE THE BUY
+4.1 CONFIRMING PURCHASE AFTER CarAudit™
+If the CarAudit™ results are positive and the user is satisfied, they confirm their intention to purchase:
+The company then prepares a digital purchase contract (in the local language and adhering to local laws, regulations and tax rules). The contract is executed between the customer and the respective local Carvago legal entity.
+A pro forma invoice is issued (sometimes called a “zálohová faktúra”), itemizing the total cost of the car, CarAudit™ fee (if not already charged separately), possible extras (extended warranty, new tires, home delivery, etc.), and any local taxes or registration fees.
+4.2 PAYMENT METHODS
+Full Amount by Bank Transfer: In most countries, the standard approach is a wire transfer in local currency. The user pays the entire cost before the platform formally buys the car from the foreign seller. This upfront payment is mainly needed to secure the vehicle from the seller, cover logistics, arrange transport, handle import and registration, and reduce financial risks in cross-border car transactions.
+Financing (Bank or Partner Institutions): The user can choose partial down payment and monthly installments arranged by the company’s partner banks or their own local bank. Requirements may vary based on individual circumstances and will be reviewed in detail following an initial consultation with a local financing specialist.
+Third-Party Financing: The user can secure financing independently (e.g., from their own bank). In that case, the company still issues an invoice, and the user must ensure the total sum is paid in time for the purchase.
+Multiple Partial Payments: Rarely, a user may send funds from different accounts due to daily limits. This is usually acceptable as long as the invoice number is referenced and the full sum arrives promptly.
+4.3 UPFRONT PAYMENT AND CONTRACT SIGNING
+Usually, the platform must receive the full payment (or at least the required portion in a financing scenario) before it will proceed to buy the car from the cross-border dealer. The contract is electronically signed by the buyer through their personal company portal account or via a digital signature system. Once the funds clear, the company initiates the next steps: paying the foreign seller, arranging transportation, and setting up any necessary administrative work for import or registration.
+WARRANTY, MONEY-BACK, AND RISK MITIGATION
+5.1 DEFAULT WARRANTY (country dependent)
+By default, the company provides a mechanical warranty on each purchased car—often covering major systems like engine, gearbox, and differential. This is distinct from any leftover manufacturer warranty that may apply if the car is relatively new.
+5.2 OPTIONAL EXTENDED COVERAGE
+Customers can upgrade their warranty for an added cost (see product information for specific lengths). The exact scope might include electronics, suspension parts, air conditioning, or other systems. Pricing and coverage vary based on car age, mileage, or brand.
+5.3 14-DAY RETURN POLICY (PRIVATE BUYERS)
+To align with consumer protections for online purchases in many jurisdictions, private individuals typically have 14 days from the date of delivery to return the car if they decide it “just doesn’t feel right” or they are otherwise unsatisfied. Key points:
+The buyer is refunded the purchase price of the car itself. However, they may not be refunded costs for services already performed (e.g., CarAudit™ fee, transport, or local administrative fees) unless the return arises from a significant undisclosed deficiency.
+The company arranges pick-up or instructs the buyer on returning the vehicle. Once the car is back, the refund is processed.
+For business buyers, consumer return rights generally do not apply.
+5.4 RESOLVING HIDDEN DEFECTS OR CLAIMS
+If the vehicle is still under the manufacturer's warranty, any covered issue can be resolved free of charge at any authorized service center in accordance with applicable legislation. All other issues should be reported directly to us. Please notify our customer service team immediately by phone or email. Your report, including a description of the issue, will be forwarded to our claims department, which will then contact you to initiate the claims process.
+We understand that any issue can diminish the satisfaction of your purchase, which is why we are committed to resolving each case with the utmost care and to the satisfaction of our customers.
+PURCHASE AND ADMINISTRATION: WHAT HAPPENS BEHIND THE SCENES
+6.1 THE COMPANY BUYS THE CAR
+Once the user confirms the transaction and the funds are received, the company:
+Pays the original foreign dealer.
+De-registers the vehicle in its country of origin if necessary.
+Handles all export documents.
+Arranges professional transport (often by truck or multi-car trailer) to bring the vehicle to a logistics center, or directly to the buyer’s region.
+6.2 PRE-DELIVERY CHECKS & OPTIONAL SERVICES
+Upon arrival in a central hub or local logistics center, a brief re-check is performed:
+If major inconsistencies are discovered (e.g., the car is not in the condition stated during CarAudit™), the platform may escalate back to the seller.
+Additional repairs or service tasks (changing tires, oil, filters, or other accessories) can be done if the buyer requested and paid for them. Extras like advanced cleaning, reprogramming an extra key, or installing new wheels may also be handled prior to final delivery.
+Registration tasks: If the buyer purchased “full registration” or “register with plates” service, the platform uses specialized staff or external agencies to handle any local legal tasks. This can include local technical inspections, emission tests, or completing all re-registration forms with the authorities.
+6.3 DELIVERY OR PICK-UP
+Timeframes vary but typically require at least a few weeks to handle cross-border shipping, local tests, and administrative steps. Once ready, the user can select:
+Home Delivery: The car is transported to the specified address. The user may need to have valid insurance in place.
+Pick-Up Point: The user arrives at a dedicated handover location, inspects the car, and drives away if plates and insurance are ready.
+6.4 ASSOCIATED LOGISTICS COSTS
+If the user changes from pick-up to home delivery mid-process or provides a remote location far from the initial zone, additional transportation fees or changed delivery times might apply. Communicating these updates promptly helps avoid confusion or extra delays.
+AFTER-DELIVERY SUPPORT
+7.1 REGISTRATION AND INSURANCE
+If the user did not choose the “full registration” service:
+The company prepares all mandatory paperwork (deregistration documents, technical certificates).
+The buyer is responsible for bringing these to local authorities or completing an e-registration if the government system permits.
+Complex insurance is offered by Carvago. If the buyer doesn’t opt in, they must arrange insurance themselves, but to finalize local plating, proof of insurance is often required.
+7.2 WARRANTY CLAIMS AND MAINTENANCE
+If a problem emerges under the default or extended warranty:
+The user contacts the warranty hotline or the platform’s claim department.
+The company guides them to an approved service center or local workshop.
+Covered repairs are authorized, with expenses typically borne by the warranty program. Non-covered items (normal wear and tear) remain the buyer’s responsibility.
+7.3 14-DAY RETURNS AND REFUND PROCEDURE
+For consumer (non-business) buyers, the 14-day money-back window remains open. If the buyer exercises this right:
+The car can be picked up by the platform’s logistics partner or returned to a designated location.
+The buyer gets a refund of the main purchase price, minus any non-refundable service or registration costs.
+If the buyer is returning due to a major undisclosed fault, the situation may be handled as a complaint or warranty case, possibly resulting in different cost allocations.
+FINANCING, FIRM PURCHASE, AND SPECIAL DOMESTIC SITUATIONS
+8.1 PARTNER BANK FINANCING
+Customers who prefer installments can select the “Finance” option. Requirements may include:
+Proof of stable employment (three recent pay slips, indefinite contract, or stable job history).
+Good credit history per the partner bank’s criteria.
+A minimum down payment (10–20% is common).
+Approval finalization before the platform physically purchases the car.
+8.2 BUSINESS PURCHASE (B2B)
+Companies, self-employed individuals, or larger entities can also buy vehicles through the platform. The invoice typically includes VAT if applicable, which the buyer may reclaim according to their national laws. The contract is made between the company and the platform; some consumer protections (like the 14-day unconditional return) may not apply to B2B transactions.
+FREQUENT USER SCENARIOS AND QUESTIONS
+9.1 WHAT IF A CAR FAILS CarAudit™?
+If the inspector uncovers serious mechanical problems or undisclosed accidents, the platform designates the car “not recommended.” The user can choose a completely different vehicle. If no alternative is suitable, the CarAudit™ fee is refunded.
+9.2 CAN I TRADE IN MY OLD VEHICLE?
+Typically, direct trade-ins are not part of this platform’s standard offering. In some regions, the company collaborates with auctions or partner dealers to facilitate a separate sale. However, a classic “trade-in” discount is usually not provided.
+9.3 TIMING ISSUES & COMMUNICATION
+In some calls, prospective buyers worry the chosen vehicle might be sold to someone else before the CarAudit™ is completed. This can happen if the foreign dealer sells locally. If that occurs, the buyer can pick another car with no extra inspection fee needed. The platform stays in touch by phone, email, or text, providing updates on each stage (inspection scheduling, purchase completion, shipping progress, etc.).
+9.4 RIMS, TIRES, AND LEGAL VEHICLE CONFIGURATION
+If the CarAudit™ finds that the car has wheels or modifications not approved in the buyer’s region, the user may either:
+Cancel the purchase.
+Have the platform source conforming rims or parts (possibly at an added cost).
+Proceed with the car “as is” if legally permissible, albeit not recommended.
+9.5 ELECTRIC VEHICLES OR SPECIAL MODELS
+For fully electric cars, the CarAudit™ includes checks of battery health and charging functionality to the extent possible. Cross-border brand warranties and specialized services can differ; the platform attempts to clarify brand-specific coverage.
+9.6 14-DAY RETURN DETAILS
+If a user puts too many kilometers on the car or causes damage during the 14-day trial, the company may deduct certain costs from the refund. Standard “reasonable usage” typically applies, meaning short test drives are acceptable but major usage or modifications are not.
+10. CROSS-BORDER NUANCES AND COUNTRY-SPECIFIC DIFFERENCES
+10.1 IMPORT AND DEREGISTRATION
+Each nation has its own deregistration and export protocols. For example, Germany may require an official deregistration at the local authority. Italy might require more advanced scheduling and documentation. The platform’s staff is trained to navigate these localized tasks on the buyer’s behalf.
+10.2 LANGUAGE AND LEGAL FRAMEWORKS
+Contracts are typically presented in the buyer’s local language (or a widely spoken alternative like English). The buyer avoids dealing with foreign-language purchase agreements because the platform—now the intermediary—handles negotiations with the original seller.
+10.3 TIMELINES
+While the average timeframe from paying for the car to taking delivery might be 2-4 weeks, local bureaucratic bottlenecks, transport schedules, or additional mechanical requests (like installing winter tires) can extend it. Any major holiday closures in the origin or destination country can also create delays.
+11. SELLING A CAR VIA THE PLATFORM (IN CZECHIA ONLY)
+Though the main focus is buying, some owners looking to sell can submit their car to Carvago’s auction service (in the Czech republic only). The steps typically include: Completing a form with pictures and details.
+The car is offered to partner dealers across Europe.
+The seller can accept or reject the highest bid.
+However, standard “trade-in” arrangements are generally not integrated into the immediate purchase flow. If the seller’s price expectation is unmet, they can withdraw the listing.
+12. STEP-BY-STEP SUMMARY
+Below is a concise step-by-step outline of the entire approach:
+Browse & Select: The user finds a car in the enormous online inventory
+Order CarAudit™: The user pays a set inspection fee. The platform confirms the car’s availability, then dispatches a technician.
+Inspection & Report: Within a few days, the user receives a detailed CarAudit™ with photos, mechanical notes, and a purchase recommendation.
+Decision Point: If the inspection is negative, the user can pick a different vehicle or get the inspection fee refunded. If the inspection is positive, the user proceeds.
+Payment/Financing: The user either pays the full purchase price by bank transfer or uses Carvago’s financing option to arrange monthly payments with a partner bank.
+Company Purchase & Import: The platform buys the car from the foreign seller, handles deregistration, and organizes transport to the local logistics center.
+Pre-Delivery: The vehicle undergoes both entry and exit inspections, in addition to any requested services (tires, repairs, cleaning). A compliance check with the CarAudit results is also performed. If selected by the user, the car is locally registered.
+Additional checks and requested services (tires, repairs, cleaning) are done. The car undergoes local registration if the user chose that service.
+Delivery or Pick-Up: The buyer either has the car delivered to their home or visits a designated pick-up point. They sign final documents, see the car in person, and drive away if plates are installed.
+14-Day Return (Private): The user can return the car within 14 days for general dissatisfaction, with certain service fees possibly non-refundable.
+Ongoing Support & Warranty: The standard coverage applies (length depends on country). Extended warranties (12, 24, 36 months) can be purchased if desired.
+========= NEW DOCUMENT ==========
+Car Delivery times
+When answering about car delivery times, you have to include the following disclaimer:
+Please note that all delivery times provided are
+purely indicative (orientační)
+and may be subject to change. Actual delivery may take longer due to various factors beyond our control such as
+unforeseen administrative delays
+in local or international authorities.
+Target (customer) country Usual delivery time (days after payment)
+                    Italy                                       40
+                  Czechia                                       20
+                 Slovakia                                       30
+                   Poland                                       35
+                  Romania                                       45
+                  Germany                                       30
+                  Austria                                       35
