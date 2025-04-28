@@ -5,7 +5,7 @@ from dotenv import load_dotenv
 from get_pat_livechat import get_access_token
 
 load_dotenv(override=True)
-client_id = os.getenv("live_chat_client_id_dev")
+client_id = os.getenv("live_chat_client_id")
 token = get_access_token()
 
 def list_groups():

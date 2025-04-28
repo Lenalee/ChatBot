@@ -27,7 +27,7 @@ def get_bot_token():
     payload = {
         "bot_id": bot_id,
         "client_id": os.getenv("live_chat_client_id"),
-        "bot_secret": os.getenv("live_chat_bot_secret"),
+        "bot_secret": os.getenv("bot_secret"),
         "organization_id": os.getenv("live_chat_organization_id")
     }
     response = requests.post(url, headers=headers, json=payload)
@@ -277,9 +277,5 @@ def check_transfer_availability(chat_id: str):
 #check_availability("SV17SOCW0M")
 #print(get_complete_chat_history("SV17SOCW0M"))
 #print(get_current_chat_history("SV17SOCW0M"))
-
-
-
-
 
 
