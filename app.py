@@ -85,4 +85,6 @@ def index():
     return "LiveChat Webhook Receiver is running!"
 
 if __name__ == "__main__":
-    app.run(port=5000)
+    port = int(os.getenv("PORT", 5000))
+    # Listen on all interfaces so Docker/Render can route traffic in
+    app.run(host="0.0.0.0", port=port, debug=True)
