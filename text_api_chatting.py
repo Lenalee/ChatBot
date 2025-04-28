@@ -108,7 +108,7 @@ def get_thread_messages(thread: dict, users: dict):
             parsed_chat += "\n\n"
         elif event["type"] == "rich_message":
             try:
-                parsed_chat += f"Rich message: {event["elements"][0]['title']} \n\n"
+                parsed_chat += f'Rich message: {event["elements"][0]["title"]} \n\n'
             except:
                 parsed_chat += f"Rich message: {event}\n\n"
         else:
