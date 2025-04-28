@@ -2,6 +2,10 @@ from flask import Flask, request, abort
 from dotenv import load_dotenv
 import os
 from chat_bot_logic import answer_message, answer_new_chat
+import threading
+import time
+from text_api_chatting import refresh_token
+
 app = Flask(__name__)
 
 load_dotenv(override=True)
@@ -83,6 +87,20 @@ def receive_chat_deactivated():
 @app.route("/")
 def index():
     return "LiveChat Webhook Receiver is running!"
+
+def token_refresh_task():
+    while True:
+        # Sleep for 23 hours
+        time.sleep(23 * 60 * 60)
+        try:
+            refresh_token()
+            print("Token refreshed successfully")
+        except Exception as e:
+            print(f"Error refreshing token: {e}")
+
+# Start the token refresh thread when the app starts
+token_refresh_thread = threading.Thread(target=token_refresh_task, daemon=True)
+token_refresh_thread.start()
 
 if __name__ == "__main__":
     port = int(os.getenv("PORT", 5000))

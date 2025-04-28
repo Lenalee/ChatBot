@@ -1,6 +1,7 @@
 import json
 import os
 import requests
+import time
 from dotenv import load_dotenv
 from datetime import datetime
 from get_pat_livechat import get_access_token
@@ -10,15 +11,60 @@ from get_pat_livechat import get_access_token
 
 load_dotenv(override=True)
 bot_id = os.getenv("bot_id")
-token = get_access_token()
+client_token = get_access_token()
+# Token caching variables
+_cached_token = None
+_token_expiry = 0
+
+def get_bot_token():
+    url = "https://api.livechatinc.com/v3.5/configuration/action/issue_bot_token"
+
+ 
+    headers = {
+        "Authorization": client_token,
+        "Content-Type": "application/json"
+    }
+    payload = {
+        "bot_id": bot_id,
+        "client_id": os.getenv("live_chat_client_id"),
+        "bot_secret": os.getenv("live_chat_bot_secret"),
+        "organization_id": os.getenv("live_chat_organization_id")
+    }
+    response = requests.post(url, headers=headers, json=payload)
+    if response.ok:
+        print("Bot token issued successfully")
+        return response.json()["token"]
+    else:
+        print(f"Error issuing bot token: {response.status_code} - {response.text}")
+        return None
+
+def get_valid_bot_token():
+    print("getting valid token")
+    global _cached_token, _token_expiry
+    current_time = time.time()
+    
+    # If token is not expired, return cached token
+    if _cached_token and current_time < _token_expiry:
+        print("returning cached token")
+        return _cached_token
+    
+    # Otherwise, get a new token
+    new_token = get_bot_token()
+    print("new token is generated")
+    _cached_token = new_token
+    
+    _token_expiry = current_time + (23.5 * 60 * 60)
+    
+    return new_token
+
 
 def send_message(chat_id: str, message: str):
     url = "https://api.livechatinc.com/v3.5/agent/action/send_event"
+    get_valid_bot_token()
     headers = {
-        "Authorization": "Bearer " + os.getenv("bot_token"),
+        "Authorization": "Bearer " + _cached_token,
         "Content-Type": "application/json",
         "X-Author-Id": bot_id
-
     }
     payload = {
         "chat_id": chat_id,
@@ -38,7 +84,7 @@ def send_message(chat_id: str, message: str):
 def get_all_threads(chat_id: str):
     url = "https://api.livechatinc.com/v3.5/agent/action/list_threads"
     headers = {
-        "Authorization": token,
+        "Authorization": client_token,
         "Content-Type": "application/json"
     }
     all_threads = []
@@ -66,7 +112,7 @@ def get_all_threads(chat_id: str):
 def get_chat(chat_id: str):
     url = "https://api.livechatinc.com/v3.5/agent/action/get_chat"
     headers = {
-        "Authorization": token,
+        "Authorization": client_token,
         "Content-Type": "application/json"
     }
     payload = {
@@ -210,7 +256,7 @@ def transfer_chat(chat_id: str):
 def check_transfer_availability(chat_id: str):
     url = "https://api.livechatinc.com/v3.5/agent/action/list_agents_for_transfer"
     headers = {
-        "Authorization": token,
+        "Authorization": client_token,
         "Content-Type": "application/json",
     }
 
@@ -231,6 +277,7 @@ def check_transfer_availability(chat_id: str):
 #check_availability("SV17SOCW0M")
 #print(get_complete_chat_history("SV17SOCW0M"))
 #print(get_current_chat_history("SV17SOCW0M"))
+
 
 
 

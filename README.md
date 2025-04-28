@@ -69,3 +69,8 @@ poetry export \
   --output requirements.txt \
   --without-hashes \
   --dev
+# testing environment
+frontend: https://app.netlify.com/sites/carvago-chatbot/configuration/general
+web page: https://carvago-chatbot.netlify.app
+
+backend run on https://dashboard.render.com/
