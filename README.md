@@ -62,3 +62,10 @@ In order to see chat as "on" i need to expose it to the internet.
 
 #TODO
 bot token refresh strategy!
+
+# requirements
+poetry export \
+  -f requirements.txt \
+  --output requirements.txt \
+  --without-hashes \
+  --dev

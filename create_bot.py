@@ -352,17 +352,17 @@ def check_group():
 # 2. set routing status to accepting chats
 #set_routing_status()
 #3. get bot token
-#get_bot_token()
+get_bot_token()
 # 4. register webhook
 
 # set webhooks
 
-delete_all_webhooks()
-ngrok_url = "https://5160-82-208-51-34.ngrok-free.app"
-register_webhook(action="incoming_event", description="webhook for new messages", webhook_url=ngrok_url)
-#register_webhook(action="incoming_chat", description="webhook new chat created", webhook_url=ngrok_url)
-register_webhook(action="chat_deactivated", description="webhook chat deactivated", webhook_url=ngrok_url)
-register_webhook(action="user_added_to_chat", description="webhook user added to chat", webhook_url=ngrok_url)
+# delete_all_webhooks()
+# ngrok_url = "https://5160-82-208-51-34.ngrok-free.app"
+# register_webhook(action="incoming_event", description="webhook for new messages", webhook_url=ngrok_url)
+# #register_webhook(action="incoming_chat", description="webhook new chat created", webhook_url=ngrok_url)
+# register_webhook(action="chat_deactivated", description="webhook chat deactivated", webhook_url=ngrok_url)
+# register_webhook(action="user_added_to_chat", description="webhook user added to chat", webhook_url=ngrok_url)
 
 
 #5. update routing priorities
